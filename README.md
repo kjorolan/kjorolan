@@ -3,17 +3,6 @@
 <p>I am a software developer, and engineer from southeast Asia offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
 debugging code, designing interfaces, etc.</p>
 
-
-[![GitHub](https://img.shields.io/badge/GitHub-kjorolan-black)](https://github.com/blckclov3r)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-kjorolan-1F4D7D)](https://bitbucket.org/kjorolan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kim--Jorolan-0073B1)](https://www.linkedin.com/in/kjorolan/)
-[![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-kjorolan-orange)](https://stackoverflow.com/users/14192188/kjorolan?tab=profile)
-[![Website](https://img.shields.io/badge/Portfolio-kjorolan.github.io-red)](https://kjorolan.github.io)
-[![Facebook](https://img.shields.io/badge/Facebook-kjorolan-0F91F3)](https://facebook.com/kjorolan)
-[![Instagram](https://img.shields.io/badge/Instagram-kjorolan-A92BB0)](https://instagram.com/kjorolan)
-
-
-
 <div align="center">
   <a href="https://github.com/kjorolan"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;Software%20Engineer;Fullstack%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=670&height=100&color=006699&vCenter=true&size=50%42"></a>
 </div>
@@ -36,7 +25,7 @@ debugging code, designing interfaces, etc.</p>
 
 <p>Always seeking exciting projects having full energy and enthusiasm. Looking forward to a project discussion.</p>
 
-<p>Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, Ajax, PHP, Java, C Programming, ReactJS & WordPress</p>
+<p>Skillful and with actual hands-on in the following software programming/technologies: HTML5, CSS3, Javascript, Jquery, Bootstrap, PHP, Java, C Programming, ReactJS, Typescript, ExpressJS, & WordPress</p>
 <br/>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjorolan&&show_icons=true)](https://blckclov3r.github.io)
